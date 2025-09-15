@@ -1,0 +1,14 @@
+{
+    "agent" : [
+        {"nom" : "Enzo", "age" : 22, "cle" : 3, "ville" : "Geneve"},
+        {"nom" : "Marwan", "age" : 23, "cle" : 2, "ville" : "Lausanne"},
+        {"nom" : "Melina", "age" : 19, "cle" : 1, "ville" : "Geneve"},
+        {"nom" : "Cem", "age" : 26, "cle" : 4, "ville" : "Lausanne"},
+        {"nom" : "Paul", "age" : 26, "cle" : 5, "ville" : "Bern"},
+        {"nom" : "Santiago", "age" : 17, "cle" : 6, "ville" : "Geneve"},
+        {"nom" : "Elena", "age" : 14, "cle" : 7, "ville" : "Lausanne"},
+        {"nom" : "Toufik", "age" : 47, "cle" : 8, "ville" : "Bern"},
+        {"nom" : "Charles", "age" : 21, "cle" : 9, "ville" : "Geneve"}
+    ],
+    "ville" : ["Geneve", "Lausanne", "Bern"]
+}
